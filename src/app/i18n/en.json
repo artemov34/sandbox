@@ -1,0 +1,11 @@
+{
+  "travel": {
+    "site_name": "Finance",
+    "business_expenses": {
+      "title": "Business expenses"
+    },
+    "inbox": {
+      "title": "Inbox"
+    }
+  }
+}

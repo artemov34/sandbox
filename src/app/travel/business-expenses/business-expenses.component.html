@@ -1,0 +1,16 @@
+<nz-table #nzTable [nzData]="items" nzTableLayout="fixed">
+  <thead>
+    <tr>
+      <th>UserID</th>
+      <th>Title</th>
+      <th>Message</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let data of nzTable.data">
+      <td>{{ data.userId }}</td>
+      <td>{{ data.title }}</td>
+      <td>{{ data.body }}</td>
+    </tr>
+  </tbody>
+</nz-table>

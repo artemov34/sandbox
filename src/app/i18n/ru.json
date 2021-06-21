@@ -1,0 +1,11 @@
+{
+  "travel": {
+    "site_name": "Финансы",
+    "business_expenses": {
+      "title": "Деловые расходы"
+    },
+    "inbox": {
+      "title": "В коробке :)"
+    }
+  }
+}
